@@ -18,4 +18,5 @@ Analyze and visualize hotel booking data. Stakeholders want the following questi
 
 ### Dashboard
 I added a screenshot for users who are not able to access the interactive dashboard through Power BI 
+
 <img width="1295" height="600" alt="Screenshot 2026-02-06 213531" src="https://github.com/user-attachments/assets/55209c02-9cbd-4d63-a73e-60cc05519fe8" />
